@@ -1,2 +1,2 @@
 #My App
-Basic readme for a test tutorial.
+Basic readme for a removal of items tutorial.
